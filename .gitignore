@@ -1,0 +1,7 @@
+/target/
+desktop.ini
+*.ini
+.DS_Store
+.vscode/
+.idea/
+nbproject/private/
